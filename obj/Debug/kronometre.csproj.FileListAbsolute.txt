@@ -1,0 +1,37 @@
+D:\sil\kronometre\obj\Debug\Interop.WMPLib.dll
+D:\sil\kronometre\obj\Debug\kronometre.csproj.ResolveComReference.cache
+D:\sil\kronometre\bin\Debug\kronometre.exe
+D:\sil\kronometre\bin\Debug\kronometre.pdb
+D:\sil\kronometre\bin\Debug\Interop.WMPLib.dll
+D:\sil\kronometre\obj\Debug\kronometre.csprojResolveAssemblyReference.cache
+D:\sil\kronometre\obj\Debug\krometre.ana.resources
+D:\sil\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+D:\sil\kronometre\obj\Debug\kronometre.csproj.GenerateResource.Cache
+D:\sil\kronometre\obj\Debug\kronometre.exe
+D:\sil\kronometre\obj\Debug\kronometre.pdb
+D:\sil\kronometre\bin\Debug\kronometre.exe.config
+D:\sil\New folder\kronometre\bin\Debug\kronometre.exe.config
+D:\sil\New folder\kronometre\obj\Debug\Interop.WMPLib.dll
+D:\sil\New folder\kronometre\obj\Debug\kronometre.csproj.ResolveComReference.cache
+D:\sil\New folder\kronometre\obj\Debug\kronometre.exe
+D:\sil\New folder\kronometre\obj\Debug\kronometre.pdb
+D:\sil\New folder\kronometre\bin\Debug\kronometre.exe
+D:\sil\New folder\kronometre\bin\Debug\kronometre.pdb
+D:\sil\New folder\kronometre\bin\Debug\Interop.WMPLib.dll
+D:\sil\New folder\kronometre\obj\Debug\ResolveAssemblyReference.cache
+D:\sil\New folder\kronometre\obj\Debug\krometre.ana.resources
+D:\sil\New folder\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+D:\sil\New folder\kronometre\obj\Debug\GenerateResource.read.1.tlog
+D:\sil\New folder\kronometre\obj\Debug\GenerateResource.write.1.tlog
+D:\sil\kronometre_v2\bin\Debug\kronometre.exe.config
+D:\sil\kronometre_v2\obj\Debug\Interop.WMPLib.dll
+D:\sil\kronometre_v2\obj\Debug\kronometre.csproj.ResolveComReference.cache
+D:\sil\kronometre_v2\obj\Debug\kronometre.exe
+D:\sil\kronometre_v2\obj\Debug\kronometre.pdb
+D:\sil\kronometre_v2\bin\Debug\kronometre.exe
+D:\sil\kronometre_v2\bin\Debug\kronometre.pdb
+D:\sil\kronometre_v2\bin\Debug\Interop.WMPLib.dll
+D:\sil\kronometre_v2\obj\Debug\kronometre.csprojResolveAssemblyReference.cache
+D:\sil\kronometre_v2\obj\Debug\krometre.ana.resources
+D:\sil\kronometre_v2\obj\Debug\kronometre.Properties.Resources.resources
+D:\sil\kronometre_v2\obj\Debug\kronometre.csproj.GenerateResource.Cache

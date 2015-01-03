@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="kronometre">
+</Property><Property Name="Solution File" Value="D:\sil\kronometre\kronometre.sln">
+</Property><Property Name="Date" Value="02 Ocak 2015 Cuma">
+</Property><Property Name="Time" Value="11:54:59">
+</Property></Properties><Event ErrorLevel="0" Project="kronometre" Source="kronometre.csproj" Description="Project file successfully backed up as D:\sil\kronometre\Backup\kronometre.csproj">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="kronometre.csproj.user" Description="Project user file successfully backed up as D:\sil\kronometre\Backup\kronometre.csproj.user">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="aboutfr.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\aboutfr.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="aboutfr.designer.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\aboutfr.designer.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="anaf.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\anaf.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="anaf.Designer.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\anaf.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Program.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\sil\kronometre\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Properties\Settings.settings" Description="File successfully backed up as D:\sil\kronometre\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Resources\hakk.png" Description="File successfully backed up as D:\sil\kronometre\Backup\Resources\hakk.png">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Resources\golden_scarab_0001.gif" Description="File successfully backed up as D:\sil\kronometre\Backup\Resources\golden_scarab_0001.gif">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="1270156627_chronometer.ico" Description="File successfully backed up as D:\sil\kronometre\Backup\1270156627_chronometer.ico">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="aboutfr.resx" Description="File successfully backed up as D:\sil\kronometre\Backup\aboutfr.resx">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="anaf.resx" Description="File successfully backed up as D:\sil\kronometre\Backup\anaf.resx">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="Properties\Resources.resx" Description="File successfully backed up as D:\sil\kronometre\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="kronometre.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="kronometre" Source="kronometre.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="kronometre" Source="kronometre.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

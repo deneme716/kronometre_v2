@@ -626,6 +626,7 @@
             // 
             // cmbPort
             // 
+            this.cmbPort.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbPort.FormattingEnabled = true;
             this.cmbPort.Location = new System.Drawing.Point(7, 7);
             this.cmbPort.Name = "cmbPort";

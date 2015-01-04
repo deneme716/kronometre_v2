@@ -99,9 +99,10 @@ namespace krometre
         }
 
         private void btbasla_Click(object sender, System.EventArgs e)
-
         {
-            serialPort1.PortName = cmbPort.Text;
+            if (cmbPort.Text!="")
+            {
+                          serialPort1.PortName = cmbPort.Text;
             serialPort1.BaudRate = 9600;
             serialPort1.DtrEnable = true; // leonardo için gerekli
             serialPort1.RtsEnable = true; // leonardo için gerekli
@@ -126,7 +127,9 @@ namespace krometre
                 btstart.Enabled = false;
                 lbdurum.Text = "Baglandı ...";
                 lbdebi.ForeColor = Color.Lime;
-                label10.ForeColor = Color.Lime;
+                label10.ForeColor = Color.Lime;  
+            }
+
             }
             
 
